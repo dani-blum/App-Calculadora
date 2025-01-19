@@ -1,4 +1,4 @@
-Calculadora Rosa - Flutter
+Calculadora - Flutter
 
 Descrição
 
@@ -9,7 +9,5 @@ Características
 Operações matemáticas básicas: é possível realizar cálculos com os operadores +, -, *, /.
 
 Interface Responsiva: A calculadora ajusta-se automaticamente a diferentes tamanhos de tela.
-
-Visual Personalizado: O tema utiliza tons de rosa, criando um design divertido e feminino.
 
 Botão "C": Permite limpar o visor e a entrada atual.
