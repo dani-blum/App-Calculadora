@@ -1,16 +1,15 @@
-# myapp
+Calculadora Rosa - Flutter
 
-A new Flutter project.
+Descrição
 
-## Getting Started
+Este é um projeto simples de uma calculadora rosa desenvolvida em Flutter. Ela realiza operações matemáticas básicas como adição, subtração, multiplicação e divisão, com uma interface amigável e responsiva.
 
-This project is a starting point for a Flutter application.
+Características
 
-A few resources to get you started if this is your first Flutter project:
+Operações matemáticas básicas: é possível realizar cálculos com os operadores +, -, *, /.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Interface Responsiva: A calculadora ajusta-se automaticamente a diferentes tamanhos de tela.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Visual Personalizado: O tema utiliza tons de rosa, criando um design divertido e feminino.
+
+Botão "C": Permite limpar o visor e a entrada atual.
