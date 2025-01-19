@@ -2,7 +2,7 @@ Calculadora - Flutter
 
 Descrição
 
-Este é um projeto simples de uma calculadora rosa desenvolvida em Flutter. Ela realiza operações matemáticas básicas como adição, subtração, multiplicação e divisão, com uma interface amigável e responsiva.
+Este é um projeto simples de uma calculadora desenvolvida em Flutter. Ela realiza operações matemáticas básicas como adição, subtração, multiplicação e divisão, com uma interface amigável e responsiva.
 
 Características
 
